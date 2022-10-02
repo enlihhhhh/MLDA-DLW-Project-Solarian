@@ -1,7 +1,7 @@
 # Solarian 
 <hr style="border:2px solid gray"> 
 
-![Saulės_elektrinė](https://user-images.githubusercontent.com/101797615/193462573-1104331e-721b-4206-b1e0-87973e132be2.jpeg)
+<img width="679" alt="Screenshot 2022-10-03 at 3 28 23 AM" src="https://user-images.githubusercontent.com/101797615/193472616-67eb199e-82a8-4ba7-8e39-76f96ec9bdfa.png">
 
 ## ℹ Background and Introduction
 > *"Develop AI models or IoT solutions that solve industrial or social problems in the new stage of society development. The Smart Nation is an initiative by the Government of Singapore to harness from info-comm technologies, networks and big data to create tech-enabled solutions."* 
