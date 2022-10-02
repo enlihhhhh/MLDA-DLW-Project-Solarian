@@ -34,5 +34,5 @@ Our solution works by **calculating performance ratios** of Monocrystal Solar Pa
 ## 🖊️ Contributors
 * Daniel Tan
 * Arun Vijay
-* Wang Yu Teng
+* Wang Yu Teng [@WangYuTengg] (https://github.com/WangYuTengg)
 * Lye En Lih [@enlihhhhh](https://github.com/enlihhhhh)
