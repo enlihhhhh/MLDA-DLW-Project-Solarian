@@ -48,11 +48,11 @@ Our solution works by **calculating performance ratios** of Monocrystal Solar Pa
 * Managed to establish a direct relationship between 'regions of Singapore' and 'money saved through installation of solar panel'
 
 ## 👀 Future Plans
-* Fine tune the model and feed more data for training the model to get extremely high accuracy for actual use
-* Fully implement all front-end quality of life features such as automatic-screenshot of map
-* Expand the usage of this app to outside of singapore
-* Give more accurate metrics of and conversion of pixels to surface area
-* Addition of more features in Computer Vision aspect such as calculating angle of roof 
+* Fine-tune the model and feed more data for training the model to get extremely high accuracy for actual use
+* Fully implement all front-end quality of life features such as an automatic screenshot of the map
+* Expand the usage of this app outside of Singapore
+* Give more accurate metrics of and conversion of pixels to the surface area
+* Addition of more features in Computer Vision aspect such as calculating angle of the roof
 
 ## ✍🏻 Contributors
 * Daniel Tan
