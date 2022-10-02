@@ -24,11 +24,11 @@ Our solution works by **calculating performance ratios** of Monocrystal Solar Pa
 
 ## 𝌞 Repository Content
 1. [Machine Learning Model](https://github.com/enlihhhhh/MLDA-DLW-Project-Solarian/blob/main/Training.ipynb)
-  - Notebook contains the various ML models we used for the training of data
-  - UNET
+    - Notebook contains the various ML models we used for the training of data
+    - UNET
 2. [Weather Data]
-  - Notebook contains the algorithm we design to calculate the highest efficiency of solar panels
-  - Data contains different weather conditions which may affect the solar radiation
+    - Notebook contains the algorithm we design to calculate the highest efficiency of solar panels
+    - Data contains different weather conditions which may affect the solar radiation
 
 ## 🧑🏻‍💻 Technologies
 * Frontend: StreamLit
