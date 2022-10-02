@@ -19,19 +19,32 @@ Studies have shown that Singapore has a high average annual solar irradiation of
 > A computer-vision based system that helps users to determine where to best deploy different type of solar panels
 Our solution works by **calculating performance ratios** of Monocrystal Solar Panels, adjusted for average irradiance over different regions in Singapore. Then, with the highest solar energy conversion rate, we would predict how the solar panels would be placed on the rooftops around Singapore.
 
-## ⚡ Technology of Our Solution
+## 🤔 How Our Solution Works
+> Users input a location via an address or using longitude/langitude values and choose the image 'patch' that best represents the building users are trying to target. The app will return information such as surface area of flat roof (for installation of solar panels) and money saved per time period after installing solar panels at specified 'patch'
+
+##⚡Technologies:
 * Frontend: StreamLit
 * Backend for our Machine-Learning Model: OpenCV, Keras, TensorFlow, segmentation_models
 * Other libraries used: pandas, patchify, sckitlearn, geopy, pillow, matplotlib
 
 ## 🚫 Challenges
-* Private housing may be a concern regarding deploying solar panels at their household
-* Getting accuracy for the actual commerical use due to lack of data
-* Unable to allow users to 
+* Getting accuracy for the actual commerical and industrial use due to lack of data and optimisation of model
+* Unable to allow users to specify exactly what buildings to be ran through the model
+* Integration hell trying to integrate everything together
+* Certain quality of life functionalities not implemented on time 
+* Weather data is categorised into regions ('North','South','East','West','Central') of singapore currently only
 
 ## 🥇 Accomplishments
+* Excellent accuracy of ~0.87 on training model using Standard UNett for image segmentation over 100epochs
+* Implemented a decent frontend UI on StreamLit given lack of time and experience
+* Managed to establish a direct relationship between 'regions of Singapore' and 'money saved through installation of solar panel'
 
 ## 🔮 Future Ahead
+* Fine tune the model and feed more data for training the model to get extremely high accuracy for actual use
+* Fully implement all front-end quality of life features such as automatic-screenshot of map
+* Expand the usage of this app to outside of singapore
+* Give more accurate metrics of and conversion of pixels to surface area
+* Addition of more features in Computer Vision aspect such as calculating angle of roof 
 
 ## 🖊️ Contributors
 * Daniel Tan
