@@ -20,7 +20,9 @@ Studies have shown that Singapore has a high average annual solar irradiation of
 Our solution works by **calculating performance ratios** of Monocrystal Solar Panels, adjusted for average irradiance over different regions in Singapore. Then, with the highest solar energy conversion rate, we would predict how the solar panels would be placed on the rooftops around Singapore.
 
 ## ⚡ Technology of Our Solution
-<img src="https://img.shields.io/badge/streamlit-bd4043?style=for-the-badge&logo=streamlit&logoColor=white" /> <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" />
+* Frontend: StreamLit
+* Backend for our Machine-Learning Model: OpenCV, Keras, TensorFlow, segmentation_models
+* Other libraries used: pandas, patchify, sckitlearn, geopy, pillow, matplotlib
 
 ## 🚫 Challenges
 * Private housing may be a concern regarding deploying solar panels at their household
