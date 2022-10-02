@@ -21,3 +21,14 @@ Our solution works by **calculating performance ratios** of Monocrystal Solar Pa
 
 ## ⚡ Technology of Our Solution
 <img src="https://img.shields.io/badge/streamlit-bd4043?style=for-the-badge&logo=streamlit&logoColor=white" /> <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" />
+
+## 🚫 Challenges
+* Private housing may be a concern regarding deploying solar panels at their household
+* Getting accuracy for the actual commerical use due to lack of data
+* Unable to allow users to 
+
+## 🖊️ Contributors
+* Daniel Tan
+* Arun Vijay
+* Wang Yu Teng
+* Lye En Lih [@enlihhhhh](https://github.com/enlihhhhh)
