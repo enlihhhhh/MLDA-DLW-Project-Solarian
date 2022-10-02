@@ -27,6 +27,10 @@ Our solution works by **calculating performance ratios** of Monocrystal Solar Pa
 * Getting accuracy for the actual commerical use due to lack of data
 * Unable to allow users to 
 
+## 🥇 Accomplishments
+
+## 🔮 Future Ahead
+
 ## 🖊️ Contributors
 * Daniel Tan
 * Arun Vijay
