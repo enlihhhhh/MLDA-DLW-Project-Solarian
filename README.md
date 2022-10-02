@@ -29,6 +29,9 @@ Our solution works by **calculating performance ratios** of Monocrystal Solar Pa
 2. [Weather Data](https://github.com/enlihhhhh/MLDA-DLW-Project-Solarian/blob/main/Weather_Data.ipynb)
     - Notebook contains the algorithm we design to calculate the highest efficiency of solar panels
     - Data contains different weather conditions which may affect the solar radiation
+3. Source Code
+    - [Home Page App](https://github.com/enlihhhhh/MLDA-DLW-Project-Solarian/blob/main/app.py)
+    - [Second Page App](https://github.com/enlihhhhh/MLDA-DLW-Project-Solarian/tree/main/pages)
 
 ## 🧑🏻‍💻 Technologies
 * Frontend: StreamLit
