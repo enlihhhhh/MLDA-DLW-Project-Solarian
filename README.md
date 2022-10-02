@@ -26,7 +26,7 @@ Our solution works by **calculating performance ratios** of Monocrystal Solar Pa
 1. [Machine Learning Model](https://github.com/enlihhhhh/MLDA-DLW-Project-Solarian/blob/main/Training.ipynb)
     - Notebook contains the various ML models we used for the training of data
     - Data contains images derived from a kaggle data-set
-2. [Weather Data]
+2. [Weather Data](https://github.com/enlihhhhh/MLDA-DLW-Project-Solarian/blob/main/Weather_Data.ipynb)
     - Notebook contains the algorithm we design to calculate the highest efficiency of solar panels
     - Data contains different weather conditions which may affect the solar radiation
 
@@ -55,7 +55,7 @@ Our solution works by **calculating performance ratios** of Monocrystal Solar Pa
 * Addition of more features in Computer Vision aspect such as calculating angle of the roof
 
 ## ✍🏻 Contributors
-* Daniel Tan
-* Arun Vijay
+* Daniel Tan [@UnicornPresident](https://github.com/UnicornPresident)
+* Arun Vijay [@hackermanrunzzz](https://github.com/hackermanrunzzz)
 * Wang Yu Teng [@WangYuTengg](https://github.com/WangYuTengg)
 * Lye En Lih [@enlihhhhh](https://github.com/enlihhhhh)
