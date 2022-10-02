@@ -3,12 +3,12 @@
 
 ![Saulės_elektrinė](https://user-images.githubusercontent.com/101797615/193462573-1104331e-721b-4206-b1e0-87973e132be2.jpeg)
 
-## 🗺️ Background and Introduction
+## ℹ Background and Introduction
 > *"Develop AI models or IoT solutions that solve industrial or social problems in the new stage of society development. The Smart Nation is an initiative by the Government of Singapore to harness from info-comm technologies, networks and big data to create tech-enabled solutions."* 
 
 Through this hackathon, our group aims to develop AI models to help solve problems faced by the current society.
 
-In line with the seven National AI Projects that address Key Challenges in Singapore, we decided to focus on the Smart Estate section. Our objective is to provide people and companies the necessary information about solar panels to better help them install them at the respective places.
+Among the seven National AI Projects that address Key Challenges in Singapore, we decided to focus on the Smart Estate section. Our objective is to provide people and companies the necessary information about solar panels to better help them install them at the respective places.
 
 Studies have shown that Singapore has a high average annual solar irradiation of about 1,580 kWh/m2 makes solar photovoltaic (PV) a potential renewable energy option for Singapore. With increase in global temperature around the world and lack of natural resources, Singapore is looking to divert more attention to renewable energy. However, we have limited available land for the large scale deployment of solar panels, hence it is more viable to deploy solar panels at rooftop of houses in Singapore. As such, technologies that boost the use of solar power will ultimately help SG transition to a fully sustainable Smart Nation
 
@@ -21,6 +21,9 @@ Our solution works by **calculating performance ratios** of Monocrystal Solar Pa
 
 ## 🤔 How Our Solution Works
 > Users input a location via an address or using longitude/langitude values and choose the image 'patch' that best represents the building users are trying to target. The app will return information such as surface area of flat roof (for installation of solar panels) and money saved per time period after installing solar panels at specified 'patch'.
+
+## 𝌞 Repository Content
+
 
 ## 🧑🏻‍💻 Technologies
 * Frontend: StreamLit
@@ -35,11 +38,11 @@ Our solution works by **calculating performance ratios** of Monocrystal Solar Pa
 * Weather data is categorised into regions ('North','South','East','West','Central') of singapore currently only
 
 ## 🥇 Accomplishments
-* Excellent accuracy of ~0.87 on training model using Standard UNett for image segmentation over 100epochs
+* Excellent accuracy of ~0.87 on training model using Standard UNett for image segmentation over 100 epochs
 * Implemented a decent frontend UI on StreamLit given lack of time and experience
 * Managed to establish a direct relationship between 'regions of Singapore' and 'money saved through installation of solar panel'
 
-## 🔮 Future Ahead
+## 👀 Future Plans
 * Fine tune the model and feed more data for training the model to get extremely high accuracy for actual use
 * Fully implement all front-end quality of life features such as automatic-screenshot of map
 * Expand the usage of this app to outside of singapore
