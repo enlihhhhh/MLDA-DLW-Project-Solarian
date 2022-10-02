@@ -32,7 +32,7 @@ Our solution works by **calculating performance ratios** of Monocrystal Solar Pa
 3. Source Code
     - [Home Page App](https://github.com/enlihhhhh/MLDA-DLW-Project-Solarian/blob/main/app.py)
     - [Second Page App](https://github.com/enlihhhhh/MLDA-DLW-Project-Solarian/tree/main/pages)
-4. [Presentation Slides (https://github.com/enlihhhhh/MLDA-DLW-Project-Solarian/blob/main/Solarian%20presentation%20slides.pdf)
+4. [Presentation Slides](https://github.com/enlihhhhh/MLDA-DLW-Project-Solarian/blob/main/Solarian%20presentation%20slides.pdf)
 
 ## 🧑🏻‍💻 Technologies
 * Frontend: StreamLit
