@@ -5,3 +5,15 @@
 
 ## 🗺️ Background
 > *"Develop AI models or IoT solutions that solve industrial or social problems in the new stage of society development. The Smart Nation is an initiative by the Government of Singapore to harness from info-comm technologies, networks and big data to create tech-enabled solutions."* 
+
+Through this hackathon, our group aims to develop AI models to help solve problems faced by the current society.
+
+In line with the seven National AI Projects that address Key Challenges in Singapore, we decided to focus on the Smart Estate section. Our objective is to provide people and companies the necessary information about solar panels to better help them install them at the respective places.
+
+Studies have shown that Singapore has a high average annual solar irradiation of about 1,580 kWh/m2 makes solar photovoltaic (PV) a potential renewable energy option for Singapore. With increase in global temperature around the world and lack of natural resources, Singapore is looking to divert more attention to renewable energy. However, we have limited available land for the large scale deployment of solar panels, hence it is more viable to deploy solar panels at rooftop of houses in Singapore. As such, technologies that boost the use of solar power will ultimately help SG transition to a fully sustainable Smart Nation
+
+## ❓ Problem Statement
+> How can we detect and classify Commercial and Industrial rooftops in Singapore with the help of AI in order to identify the potential of solar panel installations?
+
+## 💡 Solution
+> 
