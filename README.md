@@ -62,3 +62,15 @@ Our solution works by **calculating performance ratios** of Monocrystal Solar Pa
 * Arun Vijay [@hackermanrunzzz](https://github.com/hackermanrunzzz)
 * Wang Yu Teng [@WangYuTengg](https://github.com/WangYuTengg)
 * Lye En Lih [@enlihhhhh](https://github.com/enlihhhhh)
+
+## ※ References
+* https://www.photonicuniverse.com/en/resources/articles/full/7.html#:~:text=Finally%2C%20to%20calculate%20the%20maximum,100%20to%20get%20a%20percentage.
+* http://solargy.com.sg/new/index.php?route=information/faq&page=2#:~:text=What%20is%20the%20annual%20irradiation,1580%20to%201620%20kWh%2F%20m2
+* https://www.saurenergy.com/solar-energy-blog/here-is-how-you-can-calculate-the-annual-solar-energy-output-of-a-photovoltaic-system#:~:text=Globally%20a%20formula%20E%20%3D%20A,output%20of%20a%20photovoltaic%20system.&text=Example%20%3A%20the%20solar%20panel%20yield,of%201.6%20m%C2%B2%20is%2015.6%25%20
+* https://www.ema.gov.sg/Renewable_Energy_Overview.aspx#:~:text=In%20Singapore%2C%20we%20have%20limited,when%20it%20becomes%20commercially%20viable
+* https://nealanalytics.com/blog/7-steps-successful-computer-vision-poc/
+* https://www.kaggle.com/datasets/humansintheloop/semantic-segmentation-of-aerial-imagery
+* http://www.weather.gov.sg/climate-historical-daily/
+* https://docs.mapbox.com/help/glossary/zoom-level/
+* https://omdena.com/blog/machine-learning-rooftops
+* https://www.saurenergy.com/solar-energy-blog/here-is-how-you-can-calculate-the-annual-solar-energy-output-of-a-photovoltaic-system#:~:text=Globally%20a%20formula%20E%20%3D%20A,output%20of%20a%20photovoltaic%20system.&text=Example%20%3A%20the%20solar%20panel%20yield,of%201.6%20m%C2%B2%20is%2015.6%25%20
