@@ -3,7 +3,7 @@
 
 ![Saulės_elektrinė](https://user-images.githubusercontent.com/101797615/193462573-1104331e-721b-4206-b1e0-87973e132be2.jpeg)
 
-## 🗺️ Background
+## 🗺️ Background and Introduction
 > *"Develop AI models or IoT solutions that solve industrial or social problems in the new stage of society development. The Smart Nation is an initiative by the Government of Singapore to harness from info-comm technologies, networks and big data to create tech-enabled solutions."* 
 
 Through this hackathon, our group aims to develop AI models to help solve problems faced by the current society.
@@ -22,12 +22,12 @@ Our solution works by **calculating performance ratios** of Monocrystal Solar Pa
 ## 🤔 How Our Solution Works
 > Users input a location via an address or using longitude/langitude values and choose the image 'patch' that best represents the building users are trying to target. The app will return information such as surface area of flat roof (for installation of solar panels) and money saved per time period after installing solar panels at specified 'patch'.
 
-##⚡Technologies
+## 🧑🏻‍💻 Technologies
 * Frontend: StreamLit
 * Backend for our Machine-Learning Model: OpenCV, Keras, TensorFlow, segmentation_models
 * Other libraries used: pandas, patchify, sckitlearn, geopy, pillow, matplotlib
 
-## 🚫 Challenges
+## 😰 Challenges
 * Getting accuracy for the actual commerical and industrial use due to lack of data and optimisation of model
 * Unable to allow users to specify exactly what buildings to be ran through the model
 * Integration hell trying to integrate everything together
@@ -46,7 +46,7 @@ Our solution works by **calculating performance ratios** of Monocrystal Solar Pa
 * Give more accurate metrics of and conversion of pixels to surface area
 * Addition of more features in Computer Vision aspect such as calculating angle of roof 
 
-## 🖊️ Contributors
+## ✍🏻 Contributors
 * Daniel Tan
 * Arun Vijay
 * Wang Yu Teng [@WangYuTengg](https://github.com/WangYuTengg)
