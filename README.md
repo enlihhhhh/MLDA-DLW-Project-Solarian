@@ -23,7 +23,12 @@ Our solution works by **calculating performance ratios** of Monocrystal Solar Pa
 > Users input a location via an address or using longitude/langitude values and choose the image 'patch' that best represents the building users are trying to target. The app will return information such as surface area of flat roof (for installation of solar panels) and money saved per time period after installing solar panels at specified 'patch'.
 
 ## 𝌞 Repository Content
-
+1. [Machine Learning Model](https://github.com/enlihhhhh/MLDA-DLW-Project-Solarian/blob/main/Training.ipynb)
+  - Notebook contains the various ML models we used for the training of data
+  - UNET
+2. [Weather Data]
+  - Notebook contains the algorithm we design to calculate the highest efficiency of solar panels
+  - Data contains different weather conditions which may affect the solar radiation
 
 ## 🧑🏻‍💻 Technologies
 * Frontend: StreamLit
