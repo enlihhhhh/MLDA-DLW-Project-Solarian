@@ -16,4 +16,8 @@ Studies have shown that Singapore has a high average annual solar irradiation of
 > How can we detect and classify Commercial and Industrial rooftops in Singapore with the help of AI in order to identify the potential of solar panel installations?
 
 ## 💡 Solution
-> 
+> A computer-vision based system that helps users to determine where to best deploy different type of solar panels
+Our solution works by **calculating performance ratios** of Monocrystal Solar Panels, adjusted for average irradiance over different regions in Singapore. Then, with the highest solar energy conversion rate, we would predict how the solar panels would be placed on the rooftops around Singapore.
+
+## ⚡ Technology of Our Solution
+<img src="https://img.shields.io/badge/streamlit-bd4043?style=for-the-badge&logo=streamlit&logoColor=white" /> <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" />
