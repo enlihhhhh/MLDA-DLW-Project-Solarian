@@ -35,9 +35,12 @@ Our solution works by **calculating performance ratios** of Monocrystal Solar Pa
 4. [Presentation Slides](https://github.com/enlihhhhh/MLDA-DLW-Project-Solarian/blob/main/Solarian%20presentation%20slides.pdf)
 
 ## 🧑🏻‍💻 Technologies
-* Frontend: StreamLit
-* Backend for our Machine-Learning Model: OpenCV, Keras, TensorFlow, segmentation_models
-* Other libraries used: pandas, patchify, sckitlearn, geopy, pillow, matplotlib
+* Frontend: 
+> StreamLit
+* Backend for our Machine-Learning Model: 
+> OpenCV, Keras, TensorFlow, segmentation_models
+* Other libraries used: 
+> Pandas, Patchify, Sckitlearn, Geopy, Pillow, Matplotlib
 
 ## 😰 Challenges
 * Getting accuracy for the actual commerical and industrial use due to lack of data and optimisation of model
