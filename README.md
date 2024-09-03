@@ -18,6 +18,7 @@ Studies have shown that Singapore has a high average annual solar irradiation of
 ## 💡 Solution
 > A computer-vision based system that helps users to determine where to best deploy different type of solar panels
 Our solution works by **calculating performance ratios** of Monocrystal Solar Panels, adjusted for average irradiance over different regions in Singapore. The computer-vision based model is trained using a dataset found from kaggle: [here](https://www.kaggle.com/datasets/humansintheloop/semantic-segmentation-of-aerial-imagery). The model for our deep learning is standard UNett model.
+> Visit [devpost](https://devpost.com/software/solarian) for more information on the project
 
 ## 🤔 How Our Solution Works
 > Users input a location via an address or using longitude/langitude values and choose the image 'patch' that best represents the building users are trying to target. The app will return information such as surface area of flat roof (for installation of solar panels) and money saved per time period after installing solar panels at specified 'patch'.
